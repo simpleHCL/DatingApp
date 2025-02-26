@@ -1,0 +1,8 @@
+.dropdown-toggle .dropdown-item {
+    cursor: pointer;
+}
+
+a.dropdown-item:active {      
+    background-color: white;
+    color: black;
+}
